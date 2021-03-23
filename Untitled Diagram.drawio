@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T10:15:19.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DdIiPI1BDxQwSafUcK7a" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T10:17:23.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kC3wT0yNCVOv8ek_FOeD" version="14.4.3" type="github">
   <diagram id="fT9dytx6FlZxMEzEyuWl" name="Page-1">
-    <mxGraphModel dx="1117" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,10 +42,10 @@
           <mxGeometry x="553" y="500" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="553" y="640" width="307" height="150" as="geometry" />
+          <mxGeometry x="553" y="640" width="307" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="553" y="810" width="310" height="120" as="geometry" />
+          <mxGeometry x="553" y="800" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-23" value="&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;备份策略&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="563" y="360" width="70" height="20" as="geometry" />
@@ -63,18 +63,18 @@
           <mxGeometry x="563" y="646" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-28" value="&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;区服A-N&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="562" y="840" width="70" height="20" as="geometry" />
+          <mxGeometry x="562" y="810" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-29" value="架构同源A-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="663" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="578" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-30" value="架构同源A-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="658" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="573" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-31" value="&lt;span style=&quot;font-size: 16px&quot;&gt;GS、Database&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;GameN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="648" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="563" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vs3RJaH12gDjdYwrqUp_-34" value="数据库从库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="Vs3RJaH12gDjdYwrqUp_-34" value="集群数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="563" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vs3RJaH12gDjdYwrqUp_-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;云上备份&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -202,6 +202,15 @@
         </mxCell>
         <mxCell id="zrN1Y2SLU0a6Z4_LZhqY-28" value="匹配服集群A1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="562" y="678" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrN1Y2SLU0a6Z4_LZhqY-36" value="架构同源A-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="721" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrN1Y2SLU0a6Z4_LZhqY-37" value="架构同源A-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrN1Y2SLU0a6Z4_LZhqY-38" value="&lt;span style=&quot;font-size: 16px&quot;&gt;GS、Database&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;GameN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="706" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
